@@ -1,5 +1,3 @@
-from collections import Counter
-
 File = open("Tag10.txt", "r")
 Lines = File.readlines()
 
